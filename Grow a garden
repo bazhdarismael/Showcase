@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptslvylua/GROW-A-GARDEN-WORKING/refs/heads/main/Github"))()
